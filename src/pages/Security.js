@@ -20,7 +20,7 @@ const Security = () => {
                   id="inputPasswordCurrent"
                 />
                 <small>
-                  <a href="#">Forgot your password?</a>
+                  <a href="/">Forgot your password?</a>
                 </small>
               </div>
               <div className="form-group">

@@ -1,6 +1,4 @@
 import React from "react";
-import * as BiIcons from "react-icons/bi";
-
 import ProfImg from "../assets/images/prof_test.jpeg";
 import "./ProfileTemp.css";
 
