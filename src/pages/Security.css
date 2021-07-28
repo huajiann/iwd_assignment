@@ -1,0 +1,43 @@
+.content {
+    padding-top: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.card-header:first-child {
+    border-radius: calc(.2rem - 1px) calc(.2rem - 1px) 0 0;
+}
+.card-header {
+    border-bottom-width: 1px;
+}
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    color: inherit;
+    background-color: #fff;
+    border-bottom: 1px solid #e5e9f2;
+}
+
+.form-group {
+    padding: 8px;
+}
+
+.btn_add {
+    background-color: #fff;
+    color: black;
+}
+
+button {
+    border: 2px solid black;
+    border-radius: 20px;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    box-shadow: 0 5px 10px 0 rgba(0,0,0,0.2);
+}
